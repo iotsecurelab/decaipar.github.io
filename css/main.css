@@ -66,8 +66,8 @@ ul.posts {
   background-image: url('../img/logonew1.jpg');
   background-repeat: no-repeat;
   margin: 0 auto;
-  height: 20px;
-  width: 40px;
+  height: 200px;
+  width: 400px;
 }
 ul.posts li {
     list-style: none;
