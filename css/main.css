@@ -57,6 +57,7 @@ ul.posts {
 .portrait1{
   background-image: url('../img/research_iot.jpg');
   background-repeat: no-repeat;
+  text-align: center;
   height: 300px;
   width: 400px;
 }
@@ -64,8 +65,9 @@ ul.posts {
 .portrait2{
   background-image: url('../img/logonew1.jpg');
   background-repeat: no-repeat;
-  height: 300px;
-  width: 400px;
+  text-align: center;
+  height: 20px;
+  width: 40px;
 }
 ul.posts li {
     list-style: none;
