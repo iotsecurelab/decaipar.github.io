@@ -53,19 +53,8 @@ ul.posts {
   -moz-background-size: cover;
 }
 
-.portrait {
-  background-image: url('../img/logonew1.png');
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
-  border-radius: 70%;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-}
 
-
-.portrait{
+.portrait1{
   background-image: url('../img/research_iot.jpg');
   background-repeat: no-repeat;
   background-size: 300px 400px;
