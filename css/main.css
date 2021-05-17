@@ -69,6 +69,13 @@ ul.posts {
   height: 50px;
   width: 400px;
 }
+
+.inner-left {
+    float: left;
+    width: 300px;
+    background-color: red;
+}
+
 ul.posts li {
     list-style: none;
 }
